@@ -1,7 +1,4 @@
 import sys
 
-print("Prajwal Pawar")
-print("Hello World")
-print(sys.version)
-print("Deloitte")
-print("I am Unstopable")
+print("Today is a new day")
+print("I an at same plase where i was last year")
